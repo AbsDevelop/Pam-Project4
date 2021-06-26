@@ -1,0 +1,29 @@
+/**/
+
+body{
+  background-image: url('https://archziner.com/wp-content/uploads/2020/12/beige-and-dusty-pink-gradient-colors-minimalist-desktop-backgrounds-watercolor-on-white-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size:auto 100%; 
+}
+
+h1{
+  text-align: center;
+  margin-top: 18px;
+}
+
+h6{
+  text-align: center;
+}
+
+h5{
+  text-align: center;  
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: #DAB39A;
+}
+
+button{
+  margin-bottom: 20px;
+}
